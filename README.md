@@ -1,3 +1,5 @@
+# NXTTRENDZ
+
 # Ecommerce Application - Final Code - After React Context Part | 4
 
 - Empty Cart View
@@ -9,7 +11,7 @@
 3) Update Quantity -- User should be able to update the quantity in the cart
 4) Updating Quantity on adding same Product -- If a user tries to add the same item for the next time, the quantity of an item should be updated.
 5) Add Remove All button -- Remove all cart items at once
-  
+
 ### Deployment
 
 nnrnxttrendz.ccbp.tech
@@ -17,21 +19,14 @@ nnrnxttrendz.ccbp.tech
 - User Credentials:
 Prime User:
 
-
-
 username: rahul
-
 
 password: rahul@2021
 
 Non-Prime User:
 
-
 username: raja
 
-
 password: raja@2021
-
-
 
 - Website URL =  https://nnrnxttrendz.ccbp.tech/
